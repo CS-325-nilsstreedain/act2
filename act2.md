@@ -11,7 +11,7 @@ T(1) = 1
 T(2) = T(2-2) = 1
 T(1) <= c(1) for all c>=1
 T(2) <= c(2) for all c>=2
-Thus T(n) => O(n)
+Thus T(n) => Θ(n)
 ```
 
 ### Problem 2: (5pts) Consider the following algorithm:
